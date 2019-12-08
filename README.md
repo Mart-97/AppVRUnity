@@ -1,6 +1,6 @@
 # AppVRUnity
 
-## Integrantes del proyecto
+## Integrantes del equipo
 
 * Ayala Miranda Martín Javier
 * Hernandez Valencia Esteban Ramón
